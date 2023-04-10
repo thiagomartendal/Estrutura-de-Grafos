@@ -1,0 +1,14 @@
+*vertices
+1 Acordar
+2 Escovar os dentes
+3 Trocar de roupa
+4 Tomar banho
+5 Pegar as chaves
+*arcs
+1 2 0.0
+1 3 0.0
+1 4 0.0
+1 5 0.0
+2 4 0.0
+4 3 0.0
+3 5 0.0
